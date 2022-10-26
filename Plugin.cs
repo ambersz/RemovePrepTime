@@ -50,7 +50,7 @@ namespace RemovePrepTime
                 {
                     Send("setgametime 0.0");
                 }
-                else
+                // else
                 {
                     Send("unpausegametime");
                 }
